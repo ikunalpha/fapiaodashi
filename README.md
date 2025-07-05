@@ -17,9 +17,12 @@
 
 怎么样，不再被这些繁琐的重复无意义劳动束缚手脚了吧~。快快使用发票大师网页版，轻松访问：
 https://fapiao.bangnimang.net
+![image](https://github.com/user-attachments/assets/48b47272-b876-475f-9e2e-b2d35f97a376)
+![image](https://github.com/user-attachments/assets/fc2708fa-8aca-44e3-b9ae-9c15e7d73125)
 
+<!--
 ![image](https://github.com/ikunalpha/fapiaodashi/raw/master/screencap.png)
-
+-->
 朋友们反馈：
 * 1 ETC高速过路费同行方便，但是会开具一大堆面额小、数量多的电子发票，每次报销都像噩梦一样，用了发票大师，再也不担心了；
 * 2 滴滴打车的发票，公司需要按行程开具，每个月下来又是几十张电子发票pdf文件，点击打印按钮都能让人崩溃，用了发票大师，心情好多了。
